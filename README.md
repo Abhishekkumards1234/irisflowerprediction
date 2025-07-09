@@ -49,7 +49,8 @@ Then open your browser to view the app:
 
 * Local URL: [http://localhost:8506](http://localhost:8506)
 * Network URL: [http://192.168.43.182:8506](http://192.168.43.182:8506)
-* 🌐 **Live App**: [https://irisspeciespredictor.streamlit.app/](https://irisspeciespredictor.streamlit.app/)
+* 🌐 **Live App**
+* https://irisflowerpredictionabhiskek.streamlit.app/
 
 ## 🎥 Demo
 
